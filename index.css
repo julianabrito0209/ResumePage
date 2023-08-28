@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(46, 45, 45);
+}
+#page{
+    min-width: 400px;
+    max-width: 1600px;
+
+   
+
+}
+section{
+    width: 100%;
+    height: 700px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#inicio{
+    background-color: dimgray;
+}
+.btnContato{
+    background-color: rgb(37, 37, 37);
+    color: azure;
+    border-radius: 5%;
+    border-style: double;
+    padding: 5px;
+}
+.imgRetrato{
+    width: 25%;
+    height: auto;
+}
