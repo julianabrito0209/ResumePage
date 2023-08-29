@@ -10,6 +10,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-top: 30px;
 }
 .fim{
     width: auto;
@@ -17,8 +18,17 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+   
 }
 
+.meio{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
 .experiencia{
     display: flex;
     flex-direction: column;
